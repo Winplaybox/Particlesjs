@@ -5,7 +5,7 @@
 ------------------------------
 ### `Demo`
 
-<a href="http://bit.ly/2WeDgNR" target="_blank"><img src="" alt="particles" /></a>
+<a href="http://bit.ly/2WeDgNR" target="_blank"><img src="https://raw.githubusercontent.com/Winplaybox/Particlesjs/master/assest/images/screenshotdemo.png" alt="particles" /></a>
 
 CodePen demo: <br />
 http://bit.ly/2WeDgNR
